@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "WANTCHU",
+  "base_artist": "keshi",
+  "createdAt": "2026-02-11T10:51:47.222865Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Wantchu",
+      "artist": "shrimp",
+      "has_synced": true,
+      "path": "select/01_Wantchu_shrimp.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "WANTCHU",
+      "artist": "keshi",
+      "has_synced": true,
+      "path": "select/02_WANTCHU_keshi.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Wantchu",
+      "artist": "Ruth Koleva",
+      "has_synced": false,
+      "path": "select/03_Wantchu_Ruth_Koleva.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "WANTCHU (HTOWN REMIX)",
+      "artist": "keshi",
+      "has_synced": false,
+      "path": "select/04_WANTCHU_(HTOWN_REMIX)_keshi.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "WANTCHU",
+      "artist": "keshi",
+      "has_synced": false,
+      "path": "select/pl_01_WANTCHU_keshi.txt"
+    }
+  ]
+}
